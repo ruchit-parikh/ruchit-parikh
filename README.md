@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋👋👋
 
-<!--
-**ruchit-parikh/ruchit-parikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ABOUT ME](https://img.shields.io/badge/About.me-000?style=for-the-badge&logo=About.me&logoColor=white)
 
-Here are some ideas to get you started:
+- 🔭 I am a full stack developer and a **Clean Code** lover. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently working as Software Engineer at Codeacious Technologies, remotely. I just love working remotely!!!
+
+- 👯 I love working with different technologies, solving tough problems and building just so amazing products for different businesses. I love building scalable architectures, plans for code bases.
+
+- 📝 I regularly post about **How we can create readable, maintainable and efficient codes** on my [LinkedIn](https://www.linkedin.com/in/ruchit-parikh/). Feel free to connect with me!!!
+
+- 📫 You can also reach out to me on my [Email](mailto:ruchitparikh17@gmail.com)
+
+![](https://github-profile-trophy.vercel.app/?username=ruchit-parikh)
